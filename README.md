@@ -1,4 +1,5 @@
-=== Auto-Recruit Prisoners Mod
+Auto-Recruit Prisoners Mod
+=== 
 
 Mount &amp; Blade 2 Mod that automatically recruits prisoners in the current party that are 
 willing to defect, starting from the highest tier to the lowest tier. 
