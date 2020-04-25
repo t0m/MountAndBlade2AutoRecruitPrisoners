@@ -1,0 +1,26 @@
+ <Module>
+     <Name value="AutoRecruitPrisoners"/>
+     <Id value="AutoRecruitPrisoners"/>
+     <Version value="v0.0.1"/>
+     <SingleplayerModule value="true"/>
+     <MultiplayerModule value="false"/>
+     <DependedModules>
+         <DependedModule Id="Native"/>
+         <DependedModule Id="SandBoxCore"/>
+         <DependedModule Id="Sandbox"/>
+         <DependedModule Id="CustomBattle"/>
+         <DependedModule Id="StoryMode" />
+     </DependedModules>
+     <SubModules>
+         <SubModule>
+             <Name value="AutoRecruitPrisoners"/>
+             <DLLName value="AutoRecruitPrisoners.dll"/>
+             <SubModuleClassType value="AutoRecruitPrisoners.Main"/>
+             <Tags>
+                 <Tag key="DedicatedServerType" value="none" />
+                 <Tag key="IsNoRenderModeElement" value="false" />
+             </Tags>
+         </SubModule>
+     </SubModules>
+     <Xmls/>
+ </Module>
