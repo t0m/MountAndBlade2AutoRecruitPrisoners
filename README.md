@@ -6,6 +6,8 @@ willing to defect, starting from the highest tier to the lowest tier.
 
 Generic building/debugging instructions can be found at: https://docs.bannerlordmodding.com/_tutorials/basic-csharp-mod.html
 
-Tested on versions:
- - 1.2.1.226961
- - 1.3.0.226834
+Version 0.0.2 works with Bannerlord versions:
+ - 1.4.1
+
+Version 0.0.1 works with Bannerlord versions below 1.4.0
+ 
